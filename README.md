@@ -49,7 +49,7 @@ License: CC-BY-4.0
   - [Protocol parameters change](#protocol-parameters-change)
   - [Treasury withdrawal](#treasury-withdrawal)
   - [Info action](#info-action)
-+ [Usefull Commands](#usefull-commands)
++ [Useful Commands](#useful-commands)
 
 ## Initial Environment Configuration
 
@@ -1585,7 +1585,7 @@ cardano-cli conway transaction submit \
 --tx-file tx.signed
 ```
 
-# Usefull Commands
+# Useful Commands
 
 #### Retrieve All Previous Governance Action IDs, Sorted by Type
 ```bash
